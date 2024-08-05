@@ -1,3 +1,5 @@
+# DESCRIPTION
+The Expense Tracker web application is a tool designed to help users manage and monitor their expenses efficiently. The application allows users to record their daily expenses, categorize them, view summaries, and generate reports to gain insights into their spending habits.
 # INSTALLATION
 1. Clone this repository to your local machine.
 2. Navigate to the project's root directory.
